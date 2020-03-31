@@ -127,3 +127,5 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+100_Numpy_exercises_with_hints_with_solutions.md
